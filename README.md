@@ -9,7 +9,7 @@ I'm on a journey to become a skilled data analyst. I love exploring datasets, cl
 - Excel (Formulas, Pivot Tables, Dashboards, Data Cleaning)  
 - SQL (Data Cleaning & Queries)  
 - Power BI (Learning basics for data analysis)  
-- Python (Next step!)  
+- Python (Basics)  
 
 📁 **Projects I'm Working On:**  
 - 🧹 Excel Data Cleaning Projects  
