@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ajay Tamang.  
 #### Aspiring Data Analyst | Excel • SQL • Power BI (Learning)
 
-I'm on a journey to become a skilled data analyst. I love exploring datasets, cleaning messy data, and building dashboards that reveal insights. I'm currently learning Poweer BI while sharpening my Excel  and SQL skills through hands-on projects.
+I'm on a journey to become a skilled data analyst. I love exploring datasets, cleaning messy data, and building dashboards that reveal insights. I'm currently learning Power BI while sharpening my Excel  and SQL skills through hands-on projects.
 
 ---
 
