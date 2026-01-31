@@ -13,10 +13,10 @@ I'm on a journey to become a skilled data analyst. I love exploring datasets, cl
 
 📁 **Projects I'm Working On:**  
 - 🧹 Excel Data Cleaning Projects  
-- 📈 Interactive Dashboards(Excel) 
+- 📈 Interactive Dashboards(Excel and Power BI) 
 - 📊 Real-world dataset analysis with Excel and SQL 
 
-📌 **Goals for 2025:**  
+📌 **Goals for 2025-26:**  
 - Finish Python for Data Analysis  
 - Master Power BI dashboards  
 - Build a strong data analyst portfolio  
